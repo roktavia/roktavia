@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roktavia
-- 🌱 I’m currently learning data science with Binar Academy
+- 🌱 I’m Certified Internal Auditor and currently learning data science with Binar Academy
 - 📫 rachmawati.oktavia@gmail.com
 
 <!---
